@@ -1,0 +1,15 @@
+# Configuration changed
+1) Remove pi user
+2) Boot option: console
+3) Locale: En_US, Time:UTC
+
+# Update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade  
+sudo apt-get upgrade  
+sudo rpi-update  
+sudo reboot  
+
+# Package Preferences
+added stretch: testing packages for raspbian
+jessie > stretch
